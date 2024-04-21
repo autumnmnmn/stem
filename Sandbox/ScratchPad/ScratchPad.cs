@@ -86,7 +86,7 @@ public class ScratchPad : IRunnable
 
     public void DrilRun()
     {
-        var lines = File.ReadAllLines("/home/johnim/data-0/media/Documents/Corpi/all_dril_tweets.txt");
+        var lines = File.ReadAllLines("~/data0/media/Documents/Corpi/all_dril_tweets.txt");
 
         bool nextLineIsATweet = true;
 
