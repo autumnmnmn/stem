@@ -1,6 +1,6 @@
 # stem
 
-Stem is an ECS (Entity Component System) in C#, & an OpenGL rendering engine.
+Stem is an ECS (Entity Component System) in C#, & an OpenGL rendering engine. Mostly written back in 2020 or 2021, I think. This was mostly an exercise in learning OpenGL.
 
 The Sandbox package contains a few example modules putting it to use. Sandbox.Launcher is a CLI for launching those modules.
 
