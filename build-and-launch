@@ -1,0 +1,2 @@
+dotnet build
+./Sandbox.Launcher/bin/Debug/net8.0/Sandbox.Launcher
